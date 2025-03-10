@@ -17,11 +17,8 @@ I'm a Fullstack Software Engineer passionate about building innovative solutions
 ## 👯 I’m looking to collaborate on
 
 - Innovative machine learning projects, especially those involving LLM, and Computer Vision
-
-## 🤔 I’m looking for help with
-
-- Deploying machine learning models in production environments.
 - Cutting-edge techniques for Data and AI
+- Deploying machine learning models in production environments.
 
 ## 💬 Ask me about
 
@@ -37,4 +34,4 @@ I'm a Fullstack Software Engineer passionate about building innovative solutions
 
 ## ⚡ Fun fact
 
-I make latte art and play badminton for fun
+- I make latte art and play badminton for fun
