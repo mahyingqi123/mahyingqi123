@@ -6,7 +6,7 @@ Here's your updated "About Me" section with a link to your resume included. You 
 
 I'm a Fullstack Software Engineer passionate about building innovative solutions across mobile apps, web interfaces, backend microservices, and IoT devices. Currently, I work at Beam Mobility, where I help scale products to serve over 50,000 daily users while integrating cutting-edge machine learning and software engineering techniques.
 
-[📄 View my resume](https://your-resume-link.com](https://docs.google.com/document/d/13UcT93MoNEQ7XO4gJVGWUZas6cWiFPv7/edit?usp=sharing&ouid=116848648833830679496&rtpof=true&sd=true))
+[📄 View my resume](https://docs.google.com/document/d/13UcT93MoNEQ7XO4gJVGWUZas6cWiFPv7/edit?usp=sharing&ouid=116848648833830679496&rtpof=true&sd=true)
 
 ---
 
