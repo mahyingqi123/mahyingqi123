@@ -1,7 +1,3 @@
-Here's your updated "About Me" section with a link to your resume included. You can upload your resume to a cloud service (like Google Drive, Dropbox, or your personal website) and replace the placeholder link below:
-
----
-
 # Hi, I'm Mah Ying Qi 👋
 
 I'm a Fullstack Software Engineer passionate about building innovative solutions across mobile apps, web interfaces, backend microservices, and IoT devices. Currently, I work at Beam Mobility, where I help scale products to serve over 50,000 daily users while integrating cutting-edge machine learning and software engineering techniques.
