@@ -38,6 +38,3 @@ I'm a Fullstack Software Engineer passionate about building innovative solutions
 
 - I make latte art and play badminton for fun
 
----
-
-Let me know if you want the resume link to open in a new tab, or if you're using a specific format (like Markdown, HTML, or a personal site builder).
